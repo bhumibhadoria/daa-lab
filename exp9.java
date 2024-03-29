@@ -1,6 +1,6 @@
 // Java program to solve N Queen Problem using backtracking
 
-public class exp9{
+public class exp9 {
     final int N = 4;
 
     // A utility function to print solution
@@ -106,4 +106,4 @@ public class exp9{
         Queen.solveNQ();
     }
 }
-// This code is contributed by Abhishek Shankhadhar
+
