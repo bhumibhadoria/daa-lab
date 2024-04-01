@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class exp11 {
 
     static Random random = new Random();
